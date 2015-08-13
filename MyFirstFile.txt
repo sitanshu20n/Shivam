@@ -1,1 +1,5 @@
-Situ - My Fist Git file that will be moved to Github
+<<<<<<< HEAD
+Situ - My Fist Git file that will be moved to Github from local to Remote
+=======
+Hi This is my First GitHub File
+>>>>>>> b417b6899fb8e6c934c92184c24bafa5be71280e
